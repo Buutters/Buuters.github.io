@@ -1,8 +1,8 @@
-# Welcome to MyWebSite_0608
+# Welcome to MyWebSite_0608.01
 
 Nice 2 meat everyone!
 
-## Commands(dont need to get it)
+## Commands(i dont think i need to get it)
 
 * `mkdocs new [dir-name]` - Create a new project.
 * `mkdocs serve` - Start the live-reloading docs server.

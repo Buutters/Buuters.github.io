@@ -1,17 +1,8 @@
-# Welcome to MyWebSite_0608.03really?
+# 欢迎光临小店
 
-Nice 2 meat everyone!
+菜单在左墙上
 
-## Commands(i dont think i need to get it)
+# Mkdocs+Material+GithubPage+Github Action自动化搭建你自己的博客！
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+[ref](https://blog.csdn.net/leoalasiga/article/details/132711171)
 
-## Project layout(idk)
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.

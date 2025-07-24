@@ -1,3 +1,10 @@
 site_name: My Docs
 theme:
   name: material
+
+nav:
+  - Home: index.md
+  - Tiny Pieces:
+    - 页面技术: getting-started.md
+    - C++:
+      - h_cpp.md
